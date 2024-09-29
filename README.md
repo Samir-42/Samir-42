@@ -147,37 +147,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-############################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samir-ouaammou&show_icons=true&locale=en&layout=compact" alt="samir-ouaammou" /></p>
