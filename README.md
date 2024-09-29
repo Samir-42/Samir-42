@@ -112,7 +112,6 @@
   <a href="https://facebook.com/profile.php?id=100081891472318" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="samirouaammou.4.4.2003@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -128,9 +127,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samir-ouaammou&show_icons=true&locale=en&layout=compact" alt="samir-ouaammou" /></p>
 
