@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭 Exploring: The fascinating world of system programming<br>- ✌️ Enjoy to do programming and sharing knowledge<br>- ❤️ Love to writing code and learning new features<br>- 🎯 Aiming: To contribute to open-source projects in the near future</p>
+<p align="left">- 🔭 Exploring: The fascinating world of system programming<br>- ✌️  Enjoy to do programming and sharing knowledge<br>- ❤️ Love to writing code and learning new features<br>- 🎯 Aiming: To contribute to open-source projects in the near future</p>
 
 ###
 
