@@ -9,7 +9,9 @@
 <p align="left"></p>
 
 ###
-<p</p>
+</p>
+</p>
+</p>
 <p align="left">I am Samir Ouaammou from Morroco, Web developer enthusiastic 💻,<br>always learning new things, ready for discussions and making new projects 🤖</p>
 
 ###
