@@ -128,7 +128,7 @@
 
 <p><p><div align="center">
 
-| [![Samir-42 GitHub stats](https://github-readme-stats.vercel.app/api?username=SSamir-42&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/SSamir-42?tab=repositories) | [![Samir-42 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-42&layout=compact&hide_border=true&theme=jolly)](https://github.com/Samir-42?tab=repositories) |
+| [![Samir-42 GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-42&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Samir-42?tab=repositories) | [![Samir-42 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-42&layout=compact&hide_border=true&theme=jolly)](https://github.com/Samir-42?tab=repositories) |
 |:-:|:-:|
 
 </div><p></p></p>
