@@ -126,11 +126,10 @@
   </a>
 </div>
 
-
-<div align="center">
+<p><p><div align="center">
 
 | [![Samir-Ouaammou GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-Ouaammou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Samir-Ouaammou?tab=repositories) | [![Samir-Ouaammou most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Ouaammou&layout=compact&hide_border=true&theme=jolly)](https://github.com/Samir-Ouaammou?tab=repositories) |
 |:-:|:-:|
 
-</div>
+</div><p></p></p>
 
